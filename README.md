@@ -1,7 +1,8 @@
 # Sophos Endpoint Management Scripts
 
 This repository contains two Python scripts designed to interact with the Sophos API. These scripts allow you to convert computer hostnames to endpoint IDs and subsequently delete endpoints based on those IDs.
-Requirements
+
+## Requirements
 
 1) A Sophos environment
 2) Sophos Client ID and Secret
